@@ -1,0 +1,8 @@
+.env
+.git
+__pycache__
+*.pyc
+*.pyo
+test.db
+alembic/versions/__pycache__
+tests/
