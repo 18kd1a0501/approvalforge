@@ -9,3 +9,6 @@ pydantic-settings
 pytest
 pytest-asyncio
 httpx
+aiosqlite
+email-validator
+bcrypt
